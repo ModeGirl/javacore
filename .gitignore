@@ -3,7 +3,7 @@
 *.iml
 /out/
 /target/
-.DS_Status*
+.DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
